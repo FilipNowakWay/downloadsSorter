@@ -1,0 +1,4 @@
+2024-05-20 19:46:41,753 - ERROR - The folder 'your_folder_path_here' does not exist.
+2024-05-20 19:48:36,218 - INFO - Moved file 'KVM Virtualization Cookbook (Konstantin Ivanov).epub' to folder 'Documents'
+2024-05-20 20:01:36,519 - ERROR - add_watch: cannot watch your_folder_path_here WD=-1, Errno=No such file or directory (ENOENT)
+2024-05-20 20:03:27,851 - INFO - Moved file 'Życiorys – mięta.pdf' to folder 'Documents'

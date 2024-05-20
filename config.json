@@ -1,0 +1,10 @@
+{
+    "extensions_to_categories": {
+        "pdf": "Documents", "doc": "Documents", "docx": "Documents", "txt": "Documents","epub": "Documents",
+        "xls": "Spreadsheets", "xlsx": "Spreadsheets", "ppt": "Presentations", "pptx": "Presentations",
+        "jpg": "Images", "jpeg": "Images", "png": "Images", "gif": "Images", "bmp": "Images", "tiff": "Images",
+        "zip": "Archives", "rar": "Archives", "7z": "Archives", "tar": "Archives", "gz": "Archives",
+        "mp3": "Audio", "wav": "Audio", "flac": "Audio", "aac": "Audio", "ogg": "Audio",
+        "mp4": "Videos", "mkv": "Videos", "avi": "Videos", "mov": "Videos", "wmv": "Videos"
+    }
+}
